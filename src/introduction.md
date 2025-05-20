@@ -10,6 +10,7 @@ Each guideline is in its own file, and is numbered and titled. An example could 
 - https://rust-lang.github.io/api-guidelines
 - https://pingcap.github.io/style-guide/rust/
 - https://deterministic.space/elegant-apis-in-rust.html
+- https://github.com/libp2p/rust-libp2p/blob/master/docs/coding-guidelines.md
 
 <!-- To do -->
 <!-- thiserror for error handling -->
